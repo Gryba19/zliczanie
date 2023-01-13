@@ -26,7 +26,6 @@ public class MainActivity extends AppCompatActivity {
                 int count=tekst.length();
                 String litery="abcdefghijklmnoprstuvwyz";
                 String znakispecjalne="!@#$%^&*";
-
                 pokaz.findViewById(R.id.count);
                 pokaz.setText("liczba znaków wynosi"+count);
 
