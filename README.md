@@ -1,0 +1,2 @@
+# zliczanie
+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
